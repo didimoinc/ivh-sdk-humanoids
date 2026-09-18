@@ -1,0 +1,15 @@
+Name: Nurse Caucasian Female
+Version: v006
+Use case: UC2.1 Health
+Type: Virtual Agent
+Ethnicity: Female Caucasian 3
+Age: 25
+Body Type: Average
+Height: 1,85
+Garments: Nurse Suit Green
+Hair: Dark Blonde
+User generated: No
+Blendshapes Collection: ARKit, OCVR, Visemes
+Rig Structure: Humanoid
+Rig TwistBones: No
+Rig SenseGlove support: No

@@ -1,0 +1,15 @@
+Name: Industries Employee
+Version: v006
+Use case: UC1_2_Manufacturing
+Type: Virtual Agent
+Ethnicity: Male West Asian 2
+Age: 28
+Body Type: Average
+Height: 1,85
+Garments: HardHat, Coveralls and Vest
+Hair: Dark Brown
+User generated: No
+Blendshapes Collection: ARKit, OCVR, Visemes
+Rig Structure: Humanoid
+Rig TwistBones: No
+Rig SenseGlove support: No

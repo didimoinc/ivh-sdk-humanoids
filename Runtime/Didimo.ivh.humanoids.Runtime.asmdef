@@ -1,0 +1,14 @@
+{
+    "name": "Didimo.ivh.humanoids.Runtime",
+    "rootNamespace": "Didimo.IVH.Humanoids",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

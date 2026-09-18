@@ -1,0 +1,15 @@
+Name: Business Female
+Version: v006
+Use case: UC1.1 Professional Meeting
+Type: Virtual Agent
+Ethnicity: Female Caucasian 1
+Age: 30
+Body Type: Average
+Height: 1,85
+Garments: Business Suit
+Hair: Light Brown
+User generated: No
+Blendshapes Collection: ARKit, OCVR, Visemes
+Rig Structure: Humanoid
+Rig TwistBones: No
+Rig SenseGlove support: No

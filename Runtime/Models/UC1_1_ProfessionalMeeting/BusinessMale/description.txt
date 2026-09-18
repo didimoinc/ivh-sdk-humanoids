@@ -1,0 +1,15 @@
+Name: Business Male
+Version: v007 - Meta Movement SDK
+Use case: UC1.1 Professional Meeting
+Type: Avatar
+Ethnicity: western
+Age: 45
+Body Type: None
+Height: 185
+Garments:SK_BuisinessSuit_Top__M, SK_BuisinessSuit_Pants__M, SK_BuisinessSuit_Shoes__M
+Hair: Light brown
+User generated:Yes (photo)
+Blendshapes Collection: ARKit, OCVR, Visemes
+Rig Structure: Humanoid
+Rig TwistBones: No
+Rig SenseGlove support: No

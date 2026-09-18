@@ -1,0 +1,15 @@
+Name: Nurse West Asian Male
+Version: v006
+Use case: UC2.1 Health
+Type: Virtual Agent
+Ethnicity: Male West Asian 1
+Age: 28
+Body Type: Average
+Height: 1,85
+Garments: Nurse Suit Blue
+Hair: Black
+User generated: No
+Blendshapes Collection: ARKit, OCVR, Visemes
+Rig Structure: Humanoid
+Rig TwistBones: No
+Rig SenseGlove support: No

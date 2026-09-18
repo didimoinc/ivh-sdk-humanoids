@@ -1,0 +1,15 @@
+Name: Tourguide
+Version: v006
+Use case: UC2.2 Cultural Heritage
+Type: Virtual Agent
+Ethnicity: Male Caucasian 2
+Age: 35
+Body Type: Average
+Height: 1,85
+Garments: Tourguide Garments, Hat
+Hair: Dark Brown
+User generated: No
+Blendshapes Collection: ARKit, OCVR, Visemes
+Rig Structure: Humanoid
+Rig TwistBones: No
+Rig SenseGlove support: No

@@ -1,0 +1,40 @@
+{
+  "name": "co.didimo.ivh.humanoids",
+  "version": "3.1.0",
+  "displayName": "Humanoid 3D Models for IVH SDK",
+  "description": "Humanoid 3D character package for the Intelligent Virtual Humans SDK (IVH SDK), developed by Didimo for the PRESENCE project.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Didimo",
+    "email": "presence@didimo.co",
+    "url": "https://www.didimo.co/"
+  },
+  "keywords": [
+    "humanoid",
+    "character",
+    "avatar",
+    "3d-models",
+    "urp",
+    "ivh",
+    "presence"
+  ],
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.12"
+  },
+  "samples": [
+    {
+      "displayName": "Example Scene",
+      "description": "Demo scene showcasing every character prefab in the package, with baked lighting, reflection probes, environment and skybox. Requires the Universal Render Pipeline to be configured with Runtime/Settings/Mobile_High.asset.",
+      "path": "Samples~/ExampleScene"
+    },
+    {
+      "displayName": "Per-Camera Render POCs",
+      "description": "Reference material, not a runnable demo. Three separate scenes, each solving the same problem in a different way: hiding a humanoid's head from its own first-person camera while keeping it visible to every other camera. Requires two project-level setup steps documented in the sample's README.",
+      "path": "Samples~/PerCameraRenderPOCs"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/didimoinc/ivh-sdk-humanoids.git"
+  }
+}
