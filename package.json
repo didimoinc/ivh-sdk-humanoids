@@ -1,6 +1,6 @@
 {
   "name": "co.didimo.ivh.humanoids",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "displayName": "Humanoid 3D Models for IVH SDK",
   "description": "Humanoid 3D character package for the Intelligent Virtual Humans SDK (IVH SDK), developed by Didimo for the PRESENCE project.",
   "unity": "2022.3",
